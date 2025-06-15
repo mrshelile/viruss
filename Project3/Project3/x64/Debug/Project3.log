@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Administrator\source\repos\Project3\Project3\main.c(10,21): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Project3\Project3\main.c(10,31): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Project3\Project3\main.c(10,41): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Project3\Project3\main.c(10,51): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\Administrator\source\repos\Project3\x64\Debug\Project3.exe

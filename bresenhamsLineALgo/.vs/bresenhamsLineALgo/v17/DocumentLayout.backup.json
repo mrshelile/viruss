@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\bresenhamsLineALgo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01395E88-4B11-4FF7-A67E-48EFD63BA3FF}|bresenhamsLineALgo\\bresenhamsLineALgo.vcxproj|C:\\Users\\Administrator\\source\\repos\\bresenhamsLineALgo\\bresenhamsLineALgo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01395E88-4B11-4FF7-A67E-48EFD63BA3FF}|bresenhamsLineALgo\\bresenhamsLineALgo.vcxproj|solutionrelative:bresenhamsLineALgo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\bresenhamsLineALgo\\bresenhamsLineALgo\\main.c",
+              "RelativeDocumentMoniker": "bresenhamsLineALgo\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\bresenhamsLineALgo\\bresenhamsLineALgo\\main.c",
+              "RelativeToolTip": "bresenhamsLineALgo\\main.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-15T20:14:12.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

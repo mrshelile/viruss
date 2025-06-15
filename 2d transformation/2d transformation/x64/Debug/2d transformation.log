@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(32,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(32,53): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(32,75): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(32,97): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(37,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(37,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(37,68): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(37,90): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(38,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(38,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(38,68): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(38,90): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Administrator\source\repos\2d transformation\2d transformation\main.c(85,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  2d transformation.vcxproj -> C:\Users\Administrator\source\repos\2d transformation\x64\Debug\2d transformation.exe
